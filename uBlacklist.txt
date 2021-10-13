@@ -1,0 +1,3 @@
+*://*.exefiles.com/*
+/softonic\.(jp|ru)/
+*://*.updatestar.com/*
