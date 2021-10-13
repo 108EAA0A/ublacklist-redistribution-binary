@@ -32,5 +32,6 @@
 *://*.winbindex.m417z.com/*
 *://*.windll.com/*
 *://*.winpcware.com/*
+*://*.wp.xin.at/*
 *://*.zhaodll.co/*
 *://*.zhaodll.com/*
