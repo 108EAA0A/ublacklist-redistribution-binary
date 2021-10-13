@@ -1,4 +1,5 @@
 *://*.dll-files.com/*
+*://*.dll-overhaul.com/*
 *://*.exefiles.com/*
 *://*.lo4d.com/*
 /softonic\.(jp|ru)/
