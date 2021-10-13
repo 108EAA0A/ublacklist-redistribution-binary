@@ -7,6 +7,7 @@
 *://*.error-dll.info/*
 *://*.exefiles.com/*
 *://*.lo4d.com/*
+*://*.originaldll.com/*
 /softonic\.(jp|ru)/
 *://*.updatestar.com/*
 *://*.windll.com/*
