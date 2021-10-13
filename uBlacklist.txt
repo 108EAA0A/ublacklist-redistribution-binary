@@ -20,6 +20,7 @@
 /softonic\.(jp|ru)/
 *://*.softpedia.com/*
 *://*.updatestar.com/*
+*://*.wenjian.net/
 *://*.wikidll.com/*
 *://*.winbindex.m417z.com/*
 *://*.windll.com/*
