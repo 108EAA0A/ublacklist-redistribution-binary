@@ -2,6 +2,7 @@
 *://*.dll-files.com/*
 *://*.dll-overhaul.com/*
 *://*.dllkit.com/*
+*://*.dllme.com/*
 *://*.error-dll.info/*
 *://*.exefiles.com/*
 *://*.lo4d.com/*
