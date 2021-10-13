@@ -7,6 +7,7 @@
 *://*.dllfile.net/*
 *://*.dllkit.com/*
 *://*.dllme.com/*
+*://*.dllyes.com/*
 *://*.download.cnet.com/*
 *://*.download.game155.com/*
 *://*.error-dll.info/*
