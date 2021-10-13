@@ -1,6 +1,7 @@
 *://*.dll-download-system.com/*
 *://*.dll-files.com/*
 *://*.dll-overhaul.com/*
+*://*.error-dll.info/*
 *://*.exefiles.com/*
 *://*.lo4d.com/*
 /softonic\.(jp|ru)/
