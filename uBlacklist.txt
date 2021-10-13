@@ -21,6 +21,7 @@
 /softonic\.(jp|ru)/
 *://*.softpedia.com/*
 *://*.updatestar.com/*
+*://*.videohelp.com/*
 *://*.wenjian.net/
 *://*.wikidll.com/*
 *://*.winbindex.m417z.com/*
