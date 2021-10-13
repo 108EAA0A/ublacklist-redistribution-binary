@@ -9,3 +9,4 @@
 /softonic\.(jp|ru)/
 *://*.updatestar.com/*
 *://*.windll.com/*
+*://*.winpcware.com/*
