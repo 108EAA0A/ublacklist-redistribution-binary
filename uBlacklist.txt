@@ -12,3 +12,4 @@
 *://*.updatestar.com/*
 *://*.windll.com/*
 *://*.winpcware.com/*
+*://*.zhaodll.co/*
