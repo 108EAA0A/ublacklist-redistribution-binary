@@ -6,6 +6,7 @@
 *://*.download.game155.com/*
 *://*.error-dll.info/*
 *://*.exefiles.com/*
+*://*.freedownloadmanager.org/*
 *://*.lo4d.com/*
 *://*.originaldll.com/*
 *://*.processlibrary.com/*
