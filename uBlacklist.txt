@@ -1,6 +1,7 @@
 *://*.chip.de/*
 *://*.dll-download-system.com/*
 *://*.dll-files.com/*
+*://*.dll-found.com/*
 *://*.dll-overhaul.com/*
 *://*.dllkit.com/*
 *://*.dllme.com/*
