@@ -15,6 +15,7 @@
 *://*.fileplanet.com/*
 *://*.free-codecs.com/*
 *://*.freedownloadmanager.org/*
+*://*.instalki.pl/*
 *://*.lo4d.com/*
 *://*.originaldll.com/*
 *://*.processlibrary.com/*
