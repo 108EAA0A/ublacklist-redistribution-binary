@@ -14,6 +14,7 @@
 *://*.processlibrary.com/*
 /softonic\.(jp|ru)/
 *://*.updatestar.com/*
+*://*.wikidll.com/*
 *://*.windll.com/*
 *://*.winpcware.com/*
 *://*.zhaodll.co/*
