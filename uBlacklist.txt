@@ -8,6 +8,7 @@
 *://*.exefiles.com/*
 *://*.lo4d.com/*
 *://*.originaldll.com/*
+*://*.processlibrary.com/*
 /softonic\.(jp|ru)/
 *://*.updatestar.com/*
 *://*.windll.com/*
