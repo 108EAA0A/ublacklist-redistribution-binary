@@ -1,4 +1,5 @@
 *://*.chip.de/*
+*://*.digital-digest.com/*
 *://*.dll-download-system.com/*
 *://*.dll-files.com/*
 *://*.dll-found.com/*
