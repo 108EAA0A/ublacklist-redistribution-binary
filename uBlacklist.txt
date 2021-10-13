@@ -21,6 +21,7 @@
 *://*.softpedia.com/*
 *://*.updatestar.com/*
 *://*.wikidll.com/*
+*://*.winbindex.m417z.com/*
 *://*.windll.com/*
 *://*.winpcware.com/*
 *://*.zhaodll.co/*
