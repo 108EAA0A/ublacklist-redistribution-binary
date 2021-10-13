@@ -18,6 +18,7 @@
 *://*.originaldll.com/*
 *://*.processlibrary.com/*
 *://*.slimwareutilities.com/*
+*://*.softaro.net/
 /softonic\.(jp|ru)/
 *://*.softpedia.com/*
 *://*.updatestar.com/*
