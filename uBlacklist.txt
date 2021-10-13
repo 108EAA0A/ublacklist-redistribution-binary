@@ -23,6 +23,7 @@
 *://*.softaro.net/
 /softonic\.(jp|ru)/
 *://*.softpedia.com/*
+*://*.taimienphi.vn/*
 *://*.updatestar.com/*
 *://*.videohelp.com/*
 *://*.wenjian.net/
