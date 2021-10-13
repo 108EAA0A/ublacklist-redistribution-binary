@@ -7,3 +7,4 @@
 *://*.lo4d.com/*
 /softonic\.(jp|ru)/
 *://*.updatestar.com/*
+*://*.windll.com/*
