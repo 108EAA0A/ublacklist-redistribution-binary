@@ -17,3 +17,4 @@
 *://*.windll.com/*
 *://*.winpcware.com/*
 *://*.zhaodll.co/*
+*://*.zhaodll.com/*
