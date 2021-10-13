@@ -1,3 +1,4 @@
+*://*.chip.de/*
 *://*.dll-download-system.com/*
 *://*.dll-files.com/*
 *://*.dll-overhaul.com/*
