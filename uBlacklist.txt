@@ -13,6 +13,7 @@
 *://*.lo4d.com/*
 *://*.originaldll.com/*
 *://*.processlibrary.com/*
+*://*.slimwareutilities.com/*
 /softonic\.(jp|ru)/
 *://*.softpedia.com/*
 *://*.updatestar.com/*
