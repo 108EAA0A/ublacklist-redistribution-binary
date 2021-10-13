@@ -10,6 +10,7 @@
 *://*.dllyes.com/*
 *://*.download.cnet.com/*
 *://*.download.game155.com/*
+*://*.downxia.com/*
 *://*.error-dll.info/*
 *://*.exefiles.com/*
 *://*.fileplanet.com/*
