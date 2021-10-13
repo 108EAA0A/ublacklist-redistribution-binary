@@ -3,6 +3,7 @@
 *://*.dll-files.com/*
 *://*.dll-found.com/*
 *://*.dll-overhaul.com/*
+*://*.dllfile.net/*
 *://*.dllkit.com/*
 *://*.dllme.com/*
 *://*.download.game155.com/*
