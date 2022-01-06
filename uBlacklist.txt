@@ -21,6 +21,7 @@
 *://*.freedownloadmanager.org/*
 *://*.instalki.pl/*
 *://*.lo4d.com/*
+*://*.macupdate.com/*
 *://*.originaldll.com/*
 *://*.processlibrary.com/*
 *://*.slimwareutilities.com/*
