@@ -23,7 +23,7 @@
 *://*.processlibrary.com/*
 *://*.slimwareutilities.com/*
 *://*.softaro.net/
-/softonic\.(jp|ru)/
+/softonic\.(com|jp|ru)/
 *://*.softpedia.com/*
 *://*.taimienphi.vn/*
 *://*.updatestar.com/*
