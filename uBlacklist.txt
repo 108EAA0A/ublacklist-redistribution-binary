@@ -25,6 +25,7 @@
 *://*.originaldll.com/*
 *://*.processlibrary.com/*
 *://*.slimwareutilities.com/*
+*://*.soft32.com/*
 *://*.softaro.net/
 /softonic\.(com|jp|ru)/
 *://*.softpedia.com/*
