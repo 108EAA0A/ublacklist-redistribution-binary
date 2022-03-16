@@ -1,6 +1,7 @@
 *://*.autotechint.com/*
 *://*.chip.de/*
 *://*.digital-digest.com/*
+*://*.digitaltrends.com/*
 *://*.dll-download-system.com/*
 *://*.dll-files.com/*
 *://*.dll-found.com/*
@@ -30,6 +31,7 @@
 */softonic\.(com|jp|ru)/
 *://*.softpedia.com/*
 *://*.taimienphi.vn/*
+*://*.techspot.com/*
 *://*.updatestar.com/*
 *://*.uptodown.com/*
 *://*.videohelp.com/*
