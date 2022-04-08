@@ -20,6 +20,7 @@
 *://*.fileplanet.com/*
 *://*.free-codecs.com/*
 *://*.freedownloadmanager.org/*
+*://*.goodereader.com/*
 *://*.instalki.pl/*
 *://*.lo4d.com/*
 *://*.macupdate.com/*
