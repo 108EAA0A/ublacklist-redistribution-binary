@@ -1,4 +1,5 @@
 *://*.autotechint.com/*
+*://*.br0wsers.com/*
 *://*.bytesin.com/*
 *://*.chip.de/*
 *://*.digital-digest.com/*
